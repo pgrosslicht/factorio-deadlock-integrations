@@ -1,12 +1,12 @@
 {
 	"name": "deadlock-integrations",
-	"version": "2.2.0",
+	"version": "2.2.1",
 	"title": "Deadlock-Mod Integrations",
 	"author": "Deadlock989, Shane Madden",
 	"homepage": "https://forums.factorio.com/viewtopic.php?f=94&t=57264",
 	"dependencies": [
 		"base >= 1.1.0",
-		"deadlock-beltboxes-loaders",
+		"pdg-deadlock-beltboxes-loaders",
 		"?boblogistics",
 		"?bobplates",
 		"?DoubleSpeedBelts",
