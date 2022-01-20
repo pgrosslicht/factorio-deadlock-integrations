@@ -10,3 +10,6 @@ end
 if mods["FactorioExtended-Transport"] then
 	require("prototypes.fextended")
 end
+if mods["Krastorio2"] then
+	require("prototypes.krastorio")
+end
